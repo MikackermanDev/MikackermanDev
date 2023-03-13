@@ -1,3 +1,7 @@
+<!--
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikackermandev&repo=Cours_React-WeatherApp)](https://github.com/MikackermanDev/Cours_React-WeatherApp)
+-->
+
 ## 👋 Hi there
 [![](https://github.com/MikackermanDev/MikackermanDev/blob/main/MikackermanGif.gif)](https://www.MikackermanDev.fr/)
 
@@ -33,7 +37,7 @@ MikackermanDev, future **Developer & Designer** currently in one year profession
 [![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?&logo=redux&logoColor=white)]()
 [![SASS](https://img.shields.io/badge/SASS-hotpink.svg?&logo=SASS&logoColor=white)]()
 [![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Vue.js](https://img.shields.io/badge/Vuejs-%2335495e.svg?&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/)
+[![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/)
 
 ## 💻 IDEs/Editors
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
@@ -84,12 +88,14 @@ MikackermanDev, future **Developer & Designer** currently in one year profession
 ## 📊 Some stats
 [![Trophy](https://github-profile-trophy.vercel.app/?username=mikackermandev&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true&no-frame=true&margin-w=16)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikackermandev&hide_border=true&layout=compact&langs_count=6,&theme=tokyonight" />-->
 
-![GitHub Vercel](https://github-readme-stats.vercel.app/api/top-langs/?username=mikackermandev&hide_border=true&layout=compact&langs_count=6,&theme=tokyonight)
 
-![GitHub Contribution](https://github-readme-stats.vercel.app/api?username=mikackermandev&hide_border=true&theme=tokyonight&show_icons=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mikackermandev&hide_border=true&theme=tokyonight)
+![GitHub Vercel](https://github-readme-stats.vercel.app/api/top-langs/?username=mikackermandev&hide_border=true&layout=compact&langs_count=6&theme=blue-green)
+
+![GitHub Contribution](https://github-readme-stats.vercel.app/api?username=mikackermandev&hide_border=true&theme=blue-green&show_icons=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mikackermandev&hide_border=true&theme=blue-green)
+
+
 
 <!--
 https://github.com/anuraghazra/github-readme-stats#github-stats-card
