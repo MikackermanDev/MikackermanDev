@@ -2,10 +2,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikackermandev&repo=Cours_React-WeatherApp)](https://github.com/MikackermanDev/Cours_React-WeatherApp)
 -->
 
-## 👋 Hi there
 [![](https://github.com/MikackermanDev/MikackermanDev/blob/main/MikackermanGif.gif)](https://www.MikackermanDev.fr/)
 
-## 👍 Welcome to my GitHub Profile !
+## 👋 Hi there, welcome to my GitHub Profile !
 
 MikackermanDev, future **Developer & Designer** currently in one year professionnal training "Designer and Developer of Applications" since October 2022 to September 2023
 
