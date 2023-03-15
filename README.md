@@ -95,7 +95,6 @@ MikackermanDev, future **Developer & Designer** currently in one year profession
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mikackermandev&hide_border=true&theme=blue-green)
 
 
-
 <!--
 https://github.com/anuraghazra/github-readme-stats#github-stats-card
 https://github.com/DenverCoder1/github-readme-streak-stats
