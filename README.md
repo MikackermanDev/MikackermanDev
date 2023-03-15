@@ -2,9 +2,10 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikackermandev&repo=Cours_React-WeatherApp)](https://github.com/MikackermanDev/Cours_React-WeatherApp)
 -->
 
+## 👋 Hi there
 [![](https://github.com/MikackermanDev/MikackermanDev/blob/main/MikackermanGif.gif)](https://www.MikackermanDev.fr/)
 
-## 👋 Hi there, welcome to my GitHub Profile !
+## 👍 Welcome to my GitHub Profile !
 
 MikackermanDev, future **Developer & Designer** currently in one year professionnal training "Designer and Developer of Applications" since October 2022 to September 2023
 
@@ -87,13 +88,53 @@ MikackermanDev, future **Developer & Designer** currently in one year profession
 ## 📊 Some stats
 [![Trophy](https://github-profile-trophy.vercel.app/?username=mikackermandev&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true&no-frame=true&margin-w=16)](https://github.com/ryo-ma/github-profile-trophy)
 
+<!--
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikackermandev&hide_border=true&layout=compact&langs_count=6,&theme=tokyonight" />
+-->
 
-
-![GitHub Vercel](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mikackermandev&hide_border=true&layout=compact&langs_count=6&theme=blue-green)
-
-![GitHub Contribution](https://github-readme-stats-sigma-five.vercel.app/api?username=mikackermandev&hide_border=true&theme=blue-green&show_icons=true&count_private=true)
+<!--
+![GitHub Vercel](https://github-readme-stats.vercel.app/api/top-langs/?username=mikackermandev&hide_border=true&layout=compact&langs_count=6&theme=blue-green)
+![GitHub Contribution](https://github-readme-stats.vercel.app/api?username=mikackermandev&hide_border=true&theme=blue-green&show_icons=true&count_private=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mikackermandev&hide_border=true&theme=blue-green)
+-->
 
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mikackermandev&hide_border=true&layout=compact&langs_count=6&theme=tokyonight"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mikackermandev&hide_border=true&layout=compact&langs_count=6&theme=tokyonight-duo"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikackermandev&hide_border=true&layout=compact&langs_count=6&" />
+</picture>
+
+</br>
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=mikackermandev&hide_border=true&show_icons=true&theme=tokyonight"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=mikackermandev&hide_border=true&show_icons=true&theme=tokyonight-duo"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=mikackermandev&hide_border=true&show_icons=true&hide_border=true" />
+</picture>
+
+<picture>
+<source 
+  srcset="https://github-readme-streak-stats.herokuapp.com?user=mikackermandev&hide_border=true&theme=tokyonight"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-streak-stats.herokuapp.com?user=mikackermandev&hide_border=true&theme=tokyonight-duo"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img height="180px" src="https://github-readme-streak-stats.herokuapp.com?user=mikackermandev&hide_border=true" />
+</picture>
 
 <!--
 https://github.com/anuraghazra/github-readme-stats#github-stats-card
