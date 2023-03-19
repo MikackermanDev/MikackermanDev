@@ -12,7 +12,7 @@ MikackermanDev, future **Developer & Designer** currently in one year profession
 ## 📫 Find me
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?&logo=microsoft-outlook&logoColor=white)](mailto:mikackerman093@outlook.fr)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/MikackermanDev)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin)](https://www.linkedin.com/in/?/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin)](https://www.linkedin.com/in/MikackermanDev/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@MikackermanDev)
 
 ## 📋 Languages
